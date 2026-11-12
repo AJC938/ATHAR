@@ -1,0 +1,8 @@
+{
+  "name": "FSR 402",
+  "author": "PositionCare",
+  "pins": ["VCC", "GND", "OUT"],
+  "controls": [
+    { "id": "pressure", "label": "Pressure (%)", "type": "range", "min": 0, "max": 100, "step": 1 }
+  ]
+}

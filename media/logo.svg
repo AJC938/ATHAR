@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="160" height="160" role="img" aria-label="ATHAR logo">
+  <rect x="45.5" y="5" width="9" height="28" rx="4.2" fill="#C9A04C"/>
+  <rect x="37" y="14.5" width="26" height="9" rx="4.2" fill="#C9A04C"/>
+  <path d="M50 41 C42 31 30 26 16 29 C30 30 41 35 50 41Z" fill="#006B35"/>
+  <path d="M50 41 C58 31 70 26 84 29 C70 30 59 35 50 41Z" fill="#006B35"/>
+  <path d="M50 42 C38 35 24 36 10 48 C25 41 38 40 50 42Z" fill="#006B35"/>
+  <path d="M50 42 C62 35 76 36 90 48 C75 41 62 40 50 42Z" fill="#006B35"/>
+  <rect x="45.5" y="40" width="9" height="40" rx="4.5" fill="#006B35"/>
+  <path d="M9 88 H36 L41.5 79.5 L47 95 L53.5 75.5 L59.5 88 H91" fill="none" stroke="#C9A04C" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
